@@ -32,7 +32,8 @@ input {
     border-radius: 8px;
     text-align: center;
     margin: .5em 0;
-    width: 125px;
+    padding: .25em;
+    width: 150px;
 }
 
 input::placeholder {
@@ -58,7 +59,7 @@ h2 {
     margin-bottom: .5em;
 }
 
-#length, #volume, #mass {
+section {
     background-color: #273549;
     padding: 1.5em;
     margin-bottom: 1.25em;
